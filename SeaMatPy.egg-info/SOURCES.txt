@@ -1,0 +1,9 @@
+README.md
+setup.py
+SeaMatPy/SeaMatPy.py
+SeaMatPy/__init__.py
+SeaMatPy.egg-info/PKG-INFO
+SeaMatPy.egg-info/SOURCES.txt
+SeaMatPy.egg-info/dependency_links.txt
+SeaMatPy.egg-info/requires.txt
+SeaMatPy.egg-info/top_level.txt

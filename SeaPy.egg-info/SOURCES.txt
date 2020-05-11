@@ -1,0 +1,9 @@
+README.md
+setup.py
+SeaPy/SeaPy.py
+SeaPy/__init__.py
+SeaPy.egg-info/PKG-INFO
+SeaPy.egg-info/SOURCES.txt
+SeaPy.egg-info/dependency_links.txt
+SeaPy.egg-info/requires.txt
+SeaPy.egg-info/top_level.txt

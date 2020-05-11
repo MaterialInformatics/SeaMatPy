@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: SeaMatPy
+Version: 0.0.2
+Summary: A package for performing the Stability of Elasticity Analysis in Raw Images of Material Deformation
+Home-page: https://github.com/MaterialInformatics/SEAmatPy.git/
+Author: Stefanos Papanikolaou
+Author-email: stephanos.papanikolaou@gmail.com
+License: UNKNOWN
+Description: # SEAmatPy
+        Stability of Elasticity Analysis of Materials Scripts &amp; Tutorials
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: BSD License
+Description-Content-Type: text/markdown
